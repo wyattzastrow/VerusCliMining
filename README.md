@@ -30,7 +30,7 @@ curl -k https://raw.githubusercontent.com/wyattzastrow/VerusCliMining/main/insta
 Now adjust pools, mineraddress+workername, and network settings for the API.
 exit with `<CTRL>-X` followed by `y` and an `<ENTER>`
 ```bash
-nano config.json
+nano `/ccminer/config.json
 ```
 
 ## Usage:
